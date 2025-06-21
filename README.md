@@ -19,11 +19,8 @@ Pages Included
 Built With
 - HTML5  
 - CSS3  
-- Responsive design (mobile-friendly)
-
-Live Website
-You can view the live version here:  
-
+- Responsive design 
+  
 
 Created by Fayyaz Mangi — as a passion project for awareness and change.
 
